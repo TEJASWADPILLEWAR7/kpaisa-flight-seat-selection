@@ -213,7 +213,7 @@ src/
 ### 1. Clone the Repository
 
 ```bash
-git clone <REPOSITORY_URL>
+git clone git clone https://github.com/TEJASWADPILLEWAR7/kpaisa-flight-seat-selection.git
 cd kpaisa-air
 ```
 
