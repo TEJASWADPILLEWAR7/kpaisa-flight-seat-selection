@@ -44,7 +44,7 @@ function PaymentModalContent({
   onPaymentComplete,
 }: PaymentModalProps) {
   const [step, setStep] = useState<PaymentStep>("card");
-  const [cardHolder, setCardHolder] = useState("Aarav Sharma");
+  const [cardHolder, setCardHolder] = useState("Tejas Wadpillewar");
   const [cardNumber, setCardNumber] = useState("4532 8910 3412 8842");
   const [expiry, setExpiry] = useState("09/29");
   const [cvv, setCvv] = useState("742");
